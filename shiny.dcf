@@ -1,0 +1,12 @@
+name: shiny
+title: shiny
+username: oemmanueljohn75
+account: oemmanueljohn75
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11162392
+bundleId: 8230989
+url: https://oemmanueljohn75.shinyapps.io/shiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
